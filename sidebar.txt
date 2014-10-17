@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wlv:home|Door43 (wlv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wlv|d43-wlv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wlv/archive/master.zip|d43-wlv.zip]]
+
+**Recent Changes**
+{{changes>ns = wlv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wlv|Ethnologue data]]
+
